@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sundaytodo/static/css/main.9d3bbb08.css",
+    "main.js": "/sundaytodo/static/js/main.542caed0.js",
+    "static/js/787.8eb42f38.chunk.js": "/sundaytodo/static/js/787.8eb42f38.chunk.js",
+    "static/media/leftimg.jpg": "/sundaytodo/static/media/leftimg.58b9eae47d2b0da92319.jpg",
+    "static/media/logo.PNG": "/sundaytodo/static/media/logo.dcd385036457b4f0701e.PNG",
+    "index.html": "/sundaytodo/index.html",
+    "main.9d3bbb08.css.map": "/sundaytodo/static/css/main.9d3bbb08.css.map",
+    "main.542caed0.js.map": "/sundaytodo/static/js/main.542caed0.js.map",
+    "787.8eb42f38.chunk.js.map": "/sundaytodo/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d3bbb08.css",
+    "static/js/main.542caed0.js"
+  ]
+}
