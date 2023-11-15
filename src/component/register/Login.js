@@ -29,7 +29,7 @@ const Login = () => {
   return (
     <div className="container-fluid login-container">
       <div className="row justify-content-center align-items-center">
-        <div className="col-lg-6 p-0">
+        <div className="col-lg-6 p-0 leftimg-div">
           <img
             alt="img"
             className="img-fluid"
@@ -66,7 +66,7 @@ const Login = () => {
                   </label>
                   <input
                     type="text"
-                    className="form-control mt-2"
+                    className="form-control mt-2 py-2"
                     id="input1"
                     name="email"
                     onChange={inputChangeHandler}
@@ -85,7 +85,7 @@ const Login = () => {
                   </label>
                   <input
                     type="password"
-                    className="form-control mt-2"
+                    className="form-control mt-2 py-2"
                     id="input2"
                     name="password"
                     onChange={inputChangeHandler}

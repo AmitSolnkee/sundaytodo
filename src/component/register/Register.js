@@ -70,7 +70,7 @@ const Register = () => {
                   <input
                     type="text"
                     name="username"
-                    className="form-control mt-2"
+                    className="form-control mt-2 py-2"
                     id="input1"
                     onChange={inputHandler}
                   />
@@ -88,7 +88,7 @@ const Register = () => {
                   </label>
                   <input
                     type="email"
-                    className="form-control mt-2"
+                    className="form-control mt-2 py-2"
                     name="email"
                     id="input1"
                     onChange={inputHandler}
@@ -107,7 +107,7 @@ const Register = () => {
                   </label>
                   <input
                     type="password"
-                    className="form-control mt-2"
+                    className="form-control mt-2 py-2"
                     name="password"
                     id="input2"
                     onChange={inputHandler}

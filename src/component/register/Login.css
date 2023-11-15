@@ -3,6 +3,9 @@
   height: 100%;
   object-fit: cover;
 } */
+.leftimg-div img{
+  height: 100vh;
+}
  
 .inner-content{
   width: 50%;
