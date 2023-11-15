@@ -97,8 +97,13 @@ const Login = () => {
                 </button>
                 <div className="px-0">
                   <p className="d-inline text-primary text-start px-0">
-                    Dont't have an account?{" "}
-                    <span onClick={() => navigate("/register")}>Register</span>
+                    No account?
+                    <span
+                      onClick={() => navigate("/register")}
+                      className="toggle-form"
+                    >
+                      Register
+                    </span>
                   </p>
                   <p className=" d-inline text-primary text-end float-end px-0">
                     Forgot password?

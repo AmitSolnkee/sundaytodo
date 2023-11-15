@@ -8,6 +8,10 @@
   width: 50%;
 }
 
+.toggle-form{
+  cursor: pointer;
+}
+
 @media screen and (max-width: 992px) {
   .inner-content{
     width: 100%;

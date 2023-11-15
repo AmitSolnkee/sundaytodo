@@ -119,8 +119,8 @@ const Register = () => {
                 </button>
                 <div className="px-0">
                   <p className="d-inline text-primary text-start px-0">
-                    Already have an account?{" "}
-                    <span onClick={() => navigate("/")}>Login</span>
+                     Have account?{" "}
+                    <span onClick={() => navigate("/")} className="toggle-form">Login</span>
                   </p>
                   <p className=" d-inline text-primary text-end float-end px-0">
                     Forgot password?
