@@ -1,0 +1,15 @@
+/* login-container img {
+  width: 50%;
+  height: 100%;
+  object-fit: cover;
+} */
+ 
+.inner-content{
+  width: 50%;
+}
+
+@media screen and (max-width: 992px) {
+  .inner-content{
+    width: 100%;
+  }
+}
